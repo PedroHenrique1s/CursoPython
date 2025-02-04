@@ -1,3 +1,6 @@
+#Para o funcionamento correto instalar 
+#  python -m pip install windows-curses
+
 import curses
 import random
 import time
